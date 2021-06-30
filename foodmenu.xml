@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="foodmenu.xsl"?>
+
+<menu>
+<food>
+<name>MIXED SALAD</name>
+<price>RS. 300</price>
+<description>Lettuce, Cucumber, peeled Tomato, Red Onions, Avocado, sweet Green
+Pepper, Yellow Pepper, Red Pepper, Olive Oil and Red Wine Vinegar.</description>
+</food>
+
+<food>
+<name>CHICKEN CEASER SALAD</name>
+<price>RS. 650</price>
+<description>Chicken breast, mixed Lettuce, Anchovies, Parmesan Cheese
+Mayonnaise, White Wine Vinegar, Garlic and Olive Oil.</description>
+</food>
+
+<food>
+<name>FALAFEL PITTA SANDWICH</name>
+<price>RS. 550</price>
+<description>Moroccan style Chickpea ball baked with Spices. Served on Pitta Bread with
+diced Cucumbers, Lime Pickles, mixed Lettuce and Tahini Sauce.</description>
+</food>
+
+<food>
+<name>GARLIC PARMESAN POTATO WEDGES</name>
+<price>RS. 450</price>
+<description>Potatoes cut into Wedges. Baked with Parmesan Cheese, Garlic and Paprika.</description>
+</food>
+
+<food>
+<name>HONEY GARLIC BBQ MEATBALLS </name>
+<price>RS. 350</price>
+<description>Sweet and savory Meatballs in BBQ Sauce, Honey and Green Pepper</description>
+</food>
+
+<food>
+<name>TOMATO CHEESE SANDWICH  </name>
+<price>RS.750</price>
+<description>Mayonnaise spread on White or Brown Bread with sliced Tomato
+and aged Cheddar</description>
+</food>
+
+<food>
+<name>CHICKEN LOLLIPOPS </name>
+<price>RS. 550</price>
+<description>Well-seasoned Chicken Lollipops served with Kachumbari.</description>
+</food>
+
+<food>
+<name>OVEN BAKED SWEET POTATO FRIES </name>
+<price>RS. 130</price>
+<description>Sprinkled lightly with Spanish Paprika..</description>
+</food>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="beverage.xsl"?>
+
+<menu>
+<food>
+<name>SODAS</name>
+<description>Coca Cola --------------------- RS. 300</description>
+<description1>Fanta Orange --------------------- RS. 200</description1>
+<description2>Fanta Passion --------------------- RS. 100</description2>
+<description3>Ginger Ale --------------------- RS. 120</description3>
+<description4>Bitter Lemon --------------------- RS. 140</description4>
+<description5>Soda Water --------------------- RS. 160</description5>
+<description6>Coke Light  --------------------- RS. 230</description6>
+</food>
+
+<food>
+<name>JUICES</name>
+<description>Passion --------------------- RS. 120</description>
+<description1>Mango --------------------- RS. 120</description1>
+<description2>Orange --------------------- RS. 120</description2>
+<description3>Tropical --------------------- RS. 120</description3>
+<description4>Apple --------------------- RS. 120</description4>
+</food>
+
+<food>
+<name>BEERS </name>
+<description>Tusker Lager --------------------- RS. 500</description>
+<description1>Tusker Malt --------------------- RS. 550</description1>
+<description2>Summit Lager --------------------- RS. 650</description2>
+<description3>Pilsner Ice --------------------- RS. 750</description3>
+<description4>Guinnes Stout --------------------- RS. 650</description4>
+<description5>White Cap Lager --------------------- RS. 550</description5>
+<description6>White Cap Lite --------------------- RS. 600</description6>
+</food>
+
+
+</menu>
