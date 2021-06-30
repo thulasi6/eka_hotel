@@ -1,0 +1,329 @@
+.page
+{
+	width:1340px;
+}
+.header
+{
+    background-color: #ccae2a;
+    color:#313131;
+	width:1335px;
+	height:45px;
+	background-repeat:no-repeat;
+}
+ul{
+    float:right;
+    list-style-type:none;
+  }
+  ul li{
+      display:inline-block;
+      text-align:center;
+    color:#fff;
+  }
+  p{
+    font-size: 17px;
+    display: block;
+    font-family:sans-serif;
+  }
+  ul li a{
+      text-decoration: none;
+      padding: 5px 10px;
+      border : 1px solid transparent;	
+      transition : 0.6s ease;
+      color:#fff;
+  }
+  .links
+  {
+       width:1335px;
+      height:70px;
+    background-color: white;
+  }
+  .links a{
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       color:rgb(17, 16, 16);
+      text-decoration:none;
+  }
+  .links a:hover
+  {
+      background-color:black;
+      color:white;	
+  }
+  .links a.active{
+      background-color :#ccae2a;
+      color:#000;
+  }
+  .pull-right {
+      height:20px;
+      float: right!important;
+  }
+  .logo img
+  {
+    float:left;
+    margin-left: 50px;
+    width:90px;
+      height:75px;
+  }
+  .head-div {
+      display: inline-block;
+  }
+  .head-img {
+      display: inline;
+  }
+  * {box-sizing:border-box}
+  .but{
+    background-color: white; /* Green */
+    border:2px solid rgb(216, 233, 122);
+    color:ccae2a;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+  }
+.about
+{
+    height: 180px;
+    width:1330px;
+    background-color: rgb(233, 227, 227);
+    font-family: 'Courier New', Courier, monospace;
+}    
+.t1{
+    margin-left: 50px;
+}
+.two{
+    height: 750px;
+    width: 1330px;
+    background-color: rgb(243, 237, 237);
+}
+.t2{
+    margin-left: 50px;
+}
+table, th{
+    border: 0px solid white;
+  }
+  th{
+    padding: 5px;
+    text-align: center;   
+    font-size: 20px; 
+    color: rgb(20, 19, 19);
+  }
+  .para{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #595959;
+    line-height: 24px;
+    text-align: left;
+  }
+  .foot{
+    opacity: 0.9;
+    background-color: black;
+    height:13vh;
+    width: 203vh;
+    color: white;
+  }
+  .head1{
+    width: 1330px;
+    height: 370px;
+  }
+  .footup{
+    width: 1330px;
+    height: 520px;
+    background-color: rgb(243, 237, 237);
+  }
+  .dini{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .f1{
+    width:360px;
+    height:170px;
+    background-color: rgb(243, 237, 237);
+    float:left;
+    margin-left: 50px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .f2{
+    width:360px;
+    height:170px;
+    background-color:rgb(243, 237, 237);
+    float:left;
+    margin-left: 73px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .f3{
+    width:360px;
+    height:170px;
+    background-color:rgb(243, 237, 237);
+    float:right;
+    margin-right: 50px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .s1{
+    width:360px;
+    height:170px;
+    background-color: rgb(243, 237, 237);
+    float:left;
+    margin-left: 50px;
+    margin-top: 20px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .s2{
+    width:360px;
+    height:170px;
+    background-color:rgb(243, 237, 237);
+    float:left;
+    margin-left: 73px;
+    margin-top: 20px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .s3{
+    width:360px;
+    height:170px;
+    background-color:rgb(243, 237, 237);
+    float:right;
+    margin-right: 50px;
+    margin-top: 20px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 200;
+  }
+  .dropbtn {
+    background-color:rgb(243, 237, 237);
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    width: 550px;
+  }
+
+  .dropdown {
+    margin-top: 70px;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 550px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content p {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+  } 
+  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropbtn {background-color:rgb(243, 237, 237)}
+.entire{
+  margin-top: 50px;
+  width: 1330px;
+  height: 1000px;
+}
+.lef{
+  height:1000px;
+  width: 900px;
+  float: left;
+  margin-left: 50px;
+}
+.lef1{
+  margin-top: 40px;;
+  height:650px;
+  width: 280px;
+  float: left; 
+  margin-right: 20px;
+}
+.lef2{
+  margin-top: 40px;;
+  height:650px;
+  width: 280px;
+  float: left;
+  margin-left: 20px;
+}
+.lef3{
+  margin-top: 40px;;
+  height:650px;
+  width: 280px;
+  float: right;
+  
+}
+.para{
+  font-size: 15px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #595959;
+  line-height: 24px;
+  text-align: left;
+}
+.but1{
+  color: black;
+  background-color:  #ccae2a;
+  border:2px solid #ccae2a;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 50px;
+  display: inline-block;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  float: right;
+  margin-right: 40px;
+}
+.head11{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.head12{
+  font-size: 15px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #595959;
+  line-height: 24px;
+  text-align: left;
+ 
+}
+.ri{
+  height: 900px;
+  width: 300px;
+  margin-right: 40px;
+  float: right;
+}
+.t12{
+  background-color: rgb(219, 216, 219);
+  height: 300px;
+  text-align: center;
+}
+.but2{
+  color: black;
+  background-color:orange;
+  border:2px solid orange;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;
+  color:white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 40px;
+} 
+.t11 h4{
+  text-align: center;
+}
+.about11{
+  height: 100px;
+  width:300px;
+  background-color: rgb(233, 227, 227);
+
+}
